@@ -30,23 +30,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="5" />
-          <entry key="java" value="1808" />
+          <entry key="java" value="2454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="5" />
-          <entry key="JAVA" value="1808" />
+          <entry key="JAVA" value="2454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -54,31 +54,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/myFirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="28" column="18" lean-forward="true" selection-end-line="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="88" column="50" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="50" />
+            <state relative-caret-position="42">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,10 +66,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/forgotPasswordCapabilities.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/cookiesRead.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="27" column="18" lean-forward="true" selection-end-line="48" />
+            <state relative-caret-position="-234">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/Cookies.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="28" column="75" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,10 +90,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/forgotPasswordBrowserOptions.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/cookiesWrite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="249">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -418,9 +409,12 @@
       <list>
         <option value="$PROJECT_DIR$/java-example/build.gradle" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/myFirstTest.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/Login.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/forgotPasswordCapabilities.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/forgotPasswordBrowserOptions.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/Cookies.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/Login.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/cookiesRead.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/cookiesWrite.java" />
       </list>
     </option>
   </component>
@@ -437,9 +431,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="883" />
+    <option name="x" value="860" />
     <option name="y" value="43" />
-    <option name="width" value="1004" />
+    <option name="width" value="1027" />
     <option name="height" value="986" />
   </component>
   <component name="ProjectView">
@@ -501,7 +495,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535195787582" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535220455460" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -518,7 +512,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.forgotPasswordBrowserOptions">
+  <component name="RunManager" selected="Application.cookiesWrite">
+    <configuration name="cookiesRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stqa.training.selenium.cookiesRead" />
+      <module name="java-example_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stqa.training.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cookiesWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stqa.training.selenium.cookiesWrite" />
+      <module name="java-example_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stqa.training.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stqa.training.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stqa.training.selenium" />
+      <option name="MAIN_CLASS_NAME" value="stqa.training.selenium.Cookies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <extension name="coverage">
@@ -533,7 +567,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forgotPasswordBrowserOptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="cookiesWrite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example_test" />
       <extension name="coverage">
         <pattern>
@@ -542,7 +576,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="stqa.training.selenium.forgotPasswordBrowserOptions" />
+      <option name="MAIN_CLASS_NAME" value="stqa.training.selenium.cookiesWrite" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -561,65 +595,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stqa.training.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="stqa.training.selenium.myFirstTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="myFirstTest.myFirstTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stqa.training.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="stqa.training.selenium.myFirstTest" />
-      <option name="METHOD_NAME" value="myFirstTest1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stqa.training.selenium in java-example_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stqa.training.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stqa.training.selenium" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.forgotPasswordCapabilities" />
       <item itemvalue="JUnit.Login" />
-      <item itemvalue="JUnit.stqa.training.selenium in java-example_test" />
-      <item itemvalue="JUnit.myFirstTest" />
-      <item itemvalue="JUnit.myFirstTest.myFirstTest1" />
-      <item itemvalue="JUnit.forgotPasswordBrowserOptions" />
+      <item itemvalue="JUnit.Cookies" />
+      <item itemvalue="JUnit.cookiesWrite" />
+      <item itemvalue="Application.cookiesRead" />
+      <item itemvalue="Application.cookiesWrite" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.forgotPasswordBrowserOptions" />
+        <item itemvalue="Application.cookiesWrite" />
+        <item itemvalue="Application.cookiesRead" />
+        <item itemvalue="JUnit.cookiesWrite" />
+        <item itemvalue="JUnit.Cookies" />
         <item itemvalue="JUnit.Login" />
-        <item itemvalue="JUnit.stqa.training.selenium in java-example_test" />
-        <item itemvalue="JUnit.myFirstTest" />
-        <item itemvalue="JUnit.myFirstTest.myFirstTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -634,51 +624,51 @@
       <option name="presentableId" value="Default" />
       <updated>1534701511696</updated>
       <workItem from="1534701533616" duration="7467000" />
-      <workItem from="1535123341757" duration="8464000" />
+      <workItem from="1535123341757" duration="17956000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Login - 2018.08.24 at 19h 11m 39s.xml">
+    <history-entry file="Login - 2018.08.25 at 14h 37m 26s.xml">
       <configuration name="Login" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Login - 2018.08.24 at 19h 23m 37s.xml">
-      <configuration name="Login" configurationId="JUnit" />
+    <history-entry file="Cookies - 2018.08.25 at 19h 04m 50s.xml">
+      <configuration name="Cookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Login - 2018.08.24 at 19h 29m 14s.xml">
-      <configuration name="Login" configurationId="JUnit" />
+    <history-entry file="Cookies - 2018.08.25 at 19h 08m 57s.xml">
+      <configuration name="Cookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Login - 2018.08.24 at 19h 32m 20s.xml">
-      <configuration name="Login" configurationId="JUnit" />
+    <history-entry file="Cookies - 2018.08.25 at 19h 54m 10s.xml">
+      <configuration name="Cookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Login - 2018.08.24 at 19h 33m 39s.xml">
-      <configuration name="Login" configurationId="JUnit" />
+    <history-entry file="Cookies - 2018.08.25 at 19h 56m 56s.xml">
+      <configuration name="Cookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="forgotPasswordCapabilities - 2018.08.25 at 11h 13m 23s.xml">
-      <configuration name="forgotPasswordCapabilities" configurationId="JUnit" />
+    <history-entry file="cookiesWrite - 2018.08.25 at 19h 57m 27s.xml">
+      <configuration name="cookiesWrite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="forgotPasswordCapabilities - 2018.08.25 at 11h 13m 57s.xml">
-      <configuration name="forgotPasswordCapabilities" configurationId="JUnit" />
+    <history-entry file="Cookies - 2018.08.25 at 19h 58m 14s.xml">
+      <configuration name="Cookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="forgotPasswordCapabilities - 2018.08.25 at 11h 14m 29s.xml">
-      <configuration name="forgotPasswordCapabilities" configurationId="JUnit" />
+    <history-entry file="cookiesWrite - 2018.08.25 at 19h 59m 59s.xml">
+      <configuration name="cookiesWrite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="forgotPasswordCapabilities - 2018.08.25 at 14h 16m 02s.xml">
-      <configuration name="forgotPasswordCapabilities" configurationId="JUnit" />
+    <history-entry file="cookiesWrite - 2018.08.25 at 20h 01m 51s.xml">
+      <configuration name="cookiesWrite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="forgotPasswordBrowserOptions - 2018.08.25 at 14h 16m 34s.xml">
-      <configuration name="forgotPasswordBrowserOptions" configurationId="JUnit" />
+    <history-entry file="cookiesWrite - 2018.08.25 at 20h 03m 03s.xml">
+      <configuration name="cookiesWrite" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15931000" />
+    <option name="totallyTimeSpent" value="25423000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="883" y="43" width="1004" height="986" extended-state="0" />
+    <frame x="860" y="43" width="1027" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3655914" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987805" visible="true" weight="0.24449109" />
+      <window_info id="Structure" order="1" sideWeight="0.5012195" side_tool="true" weight="0.24449109" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -708,6 +698,38 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3294643" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2451613" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3107798" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3292683" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3294643" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -718,7 +740,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state>
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
@@ -740,10 +762,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/Login.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/forgotPasswordBrowserOptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="88" column="50" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="50" />
+        <state relative-caret-position="62">
+          <caret line="17" lean-forward="true" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -760,10 +782,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/forgotPasswordBrowserOptions.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/Cookies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="28" column="75" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/cookiesRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/stqa/training/selenium/cookiesWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
