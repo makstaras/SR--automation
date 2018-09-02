@@ -24,6 +24,10 @@ public class cookiesRead{
         driver.findElement(By.name("username")).sendKeys("abc123");
         driver.findElement(By.name("password")).sendKeys("123xyz");
         driver.findElement(By.name("submit")).click();
+        /*driver.get("https://test.salesforce.com/");
+        driver.findElement(By.id("username")).sendKeys("sanantonio.coordinator@meritagehomes.com.uat");
+        driver.findElement(By.id("password")).sendKeys("Meritage17_@2");
+        driver.findElement(By.id("Login")).click();*/
 
         // create file named Cookies to store Login Information
         File file = new File("Cookies.data");

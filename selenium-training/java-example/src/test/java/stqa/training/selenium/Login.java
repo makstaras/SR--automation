@@ -46,7 +46,7 @@ public class Login {
     public  void stop1() {
         driverCH.quit();
         driverCH = null;
-    }
+    }*/
 
     ////FIREFOX
     @Before
@@ -64,7 +64,7 @@ public class Login {
         driverMF.findElement(By.id("username")).sendKeys("sanantonio.coordinator@meritagehomes.com.uat");
         driverMF.findElement(By.id("password")).sendKeys("Meritage17_@2");
         driverMF.findElement(By.id("Login")).click();
-        wait.until(titleIs("Details - Console"));
+        driverMF.findElement(By.linkText("Warranty Search"));
 
     }
 
@@ -73,9 +73,9 @@ public class Login {
         driverMF.quit();
         driverMF = null;
     }
-*/
+
     ///INTERNET EXPLORER
-    @Before
+   /* @Before
     public void start3() {
         System.setProperty("webdriver.ie.driver", "c:\\IEDriverServer.exe") ;
         driverIE = new InternetExplorerDriver();
@@ -98,5 +98,5 @@ public class Login {
     public  void stop3() {
         driverIE.quit();
         driverIE = null;
-    }
+    }*/
 }

@@ -17,6 +17,7 @@ public class cookiesWrite
         System.setProperty("webdriver.chrome.driver","C://chromedriver.exe");
         driver=new ChromeDriver();
         driver.get("http://demo.guru99.com/test/cookie/selenium_aut12.php");
+        //driver.get("https://test.salesforce.com/test23");
         try{
 
             File file = new File("Cookies.data");
@@ -48,5 +49,6 @@ public class cookiesWrite
             ex.printStackTrace();
         }
         driver.get("http://demo.guru99.com/test/cookie/selenium_aut.php");
+        //driver.get("https://test.salesforce.com/");
     }
 }
